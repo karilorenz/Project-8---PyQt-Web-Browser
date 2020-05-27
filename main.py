@@ -31,7 +31,7 @@ class App(QFrame):
         self.create_app()
         self.setMinimumSize(1366, 768)
         self.setBaseSize(1366, 786)
-        self.setWindowIcon(QIcon("luke.png"))
+        self.setWindowIcon(QIcon("TA logo BLK.png"))
 
     def create_app(self):
         # Setting main window layout
